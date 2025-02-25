@@ -1,4 +1,4 @@
-#Laplacian 8-Neighborhood Edge Detection
+Laplacian 8-Neighborhood Edge Detection
 
 This project implements the Laplacian 8-neighborhood method for edge detection in images. By applying a second-order derivative filter, it enhances edge details and improves feature extraction for computer vision tasks.
 
